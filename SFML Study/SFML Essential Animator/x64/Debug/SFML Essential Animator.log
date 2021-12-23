@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\lxy\Desktop\ttttt\SFML Essential Animator\Animator.hpp(111,56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lxy\Desktop\ttttt\SFML Essential Animator\main.cpp(64,25): warning C4305: “参数”: 从“double”到“float”截断
+  SFML Essential Animator.vcxproj -> C:\Users\lxy\Desktop\ttttt\SFML Essential Animator\x64\Debug\SFML Essential Animator.exe

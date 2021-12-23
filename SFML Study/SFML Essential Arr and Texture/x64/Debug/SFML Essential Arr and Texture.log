@@ -1,0 +1,115 @@
+﻿  main.cpp
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\Animator.hpp(111,56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(32,67): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(32,51): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(33,73): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(33,57): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(34,79): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(34,57): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(35,73): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(35,51): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(38,70): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(38,53): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(39,76): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(39,59): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(40,82): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(40,59): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(41,76): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\TileMap.hpp(41,53): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML Essential Arr and Texture.vcxproj -> C:\Users\lxy\Desktop\ttttt\SFML Essential Arr and Texture\x64\Debug\SFML Essential Arr and Texture.exe
